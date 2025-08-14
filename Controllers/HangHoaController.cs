@@ -1,6 +1,7 @@
 ﻿using Final.Data;
 using Final.ViewModels;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 
 namespace Final.Controllers
@@ -17,7 +18,7 @@ namespace Final.Controllers
         {
             var hangHoas = db.HangHoas.AsQueryable();
 
-            if(loai.HasValue)
+            if (loai.HasValue)
             {
                 hangHoas = hangHoas.Where(p => p.MaLoai == loai.Value);
             }
@@ -33,7 +34,7 @@ namespace Final.Controllers
             });
             return View(result);
         }
-        
+
         public IActionResult Search(string? query)
         {
             var hangHoas = db.HangHoas.AsQueryable();
@@ -53,7 +54,28 @@ namespace Final.Controllers
                 TenLoai = p.MaLoaiNavigation.TenLoai
             });
             return View(result);
-
+        }
+        public IActionResult Details(int id)
+        {
+            var data = db.HangHoas
+                .Include(p => p.MaLoaiNavigation)
+                .SingleOrDefault(p => p.MaHh == id);
+            if (data == null)
+            {
+                TempData["Message"] = $"Không tìm thấy sản phẩm {id}";
+                return Redirect("/404");
+            }
+            var result = new ChiTietHangHoaVM
+            {
+                MaHh = data.MaHh,
+                TenHH = data.TenHh,
+                DonGia = data.DonGia ?? 0,
+                MoTaNgan = data.MoTa ?? string.Empty,
+                Hinh = data.Hinh ?? string.Empty,
+                TenLoai = data.MaLoaiNavigation.TenLoai,
+                SoLuongTon = 10,
+            };
+            return View(data);
         }
     }
 }

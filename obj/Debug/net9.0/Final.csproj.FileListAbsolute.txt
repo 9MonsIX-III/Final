@@ -593,7 +593,6 @@ D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Fina
 D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\k0xpy8wmp0-qsdy6gzyas.gz
 D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\ppcqfouh84-m0uf2luthr.gz
 D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\abutwmynu8-7axz399ubv.gz
-D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\b8nnowy94x-x6va3dcssk.gz
 D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\wwpqkjphve-m5ot37dk2f.gz
 D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\q9bx5nhv38-6ai09hz867.gz
 D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\vsbs9y9i9z-6ai09hz867.gz
@@ -605,3 +604,5 @@ D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Fina
 D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\Final.csproj.Up2Date
 D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\Final.genruntimeconfig.cache
 D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\ref\Final.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\Final.sourcelink.json
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\b8nnowy94x-x6va3dcssk.gz

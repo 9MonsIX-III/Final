@@ -3,12 +3,72 @@
   "WorkspaceRootPath": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\views\\shared\\_danhsachhanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:views\\shared\\_danhsachhanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\viewmodels\\hanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:viewmodels\\hanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\views\\hanghoa\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:views\\hanghoa\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\wwwroot\\shop-detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:wwwroot\\shop-detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\viewmodels\\menuloaivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:viewmodels\\menuloaivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\views\\home\\pagenotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:views\\home\\pagenotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\wwwroot\\404.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:wwwroot\\404.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\views\\hanghoa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:views\\hanghoa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\views\\shared\\_danhsachhanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:views\\shared\\_danhsachhanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\views\\hanghoa\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:views\\hanghoa\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\wwwroot\\shop.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:wwwroot\\shop.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\wwwroot\\vegetable-website-template.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:wwwroot\\vegetable-website-template.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,48 +83,16 @@
       "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:views\\shared\\copyright.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\viewmodels\\hanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:viewmodels\\hanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\views\\hanghoa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:views\\hanghoa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\views\\hanghoas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:views\\hanghoas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\viewmodels\\menuloaivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:viewmodels\\menuloaivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,10 +107,6 @@
       "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|d:\\a tu\u1EA5n\\nttu university\\n\u0103m 3\\k\u1EF3 3 n\u0103m 3\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\final\\final\\data\\hshop2023context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F333E7FE-276C-40B2-BCA9-3E11198CBDFD}|Final.csproj|solutionrelative:data\\hshop2023context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -94,89 +118,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Copyright.cshtml",
-              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Shared\\Copyright.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Copyright.cshtml",
-              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Shared\\Copyright.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Copyright.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T10:41:49.259Z",
+              "DocumentIndex": 0,
+              "Title": "HangHoaVM.cs",
+              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\ViewModels\\HangHoaVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\HangHoaVM.cs",
+              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\ViewModels\\HangHoaVM.cs",
+              "RelativeToolTip": "ViewModels\\HangHoaVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T16:30:36.144Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T10:39:45.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T10:41:29.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\HangHoa\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\HangHoa\\Index.cshtml",
-              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\HangHoa\\Index.cshtml",
-              "RelativeToolTip": "Views\\HangHoa\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-13T14:34:00.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "HangHoaController.cs",
               "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Controllers\\HangHoaController.cs",
               "RelativeDocumentMoniker": "Controllers\\HangHoaController.cs",
               "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Controllers\\HangHoaController.cs",
               "RelativeToolTip": "Controllers\\HangHoaController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCkAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwEwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-13T14:32:52.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_DanhSachHangHoa.cshtml",
-              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Shared\\_DanhSachHangHoa.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_DanhSachHangHoa.cshtml",
-              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Shared\\_DanhSachHangHoa.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_DanhSachHangHoa.cshtml",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAowHMAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-13T17:31:07.312Z",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:51:18.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
+              "Title": "ProductItem.cshtml",
+              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\HangHoa\\ProductItem.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\ProductItem.cshtml",
+              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\HangHoa\\ProductItem.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\ProductItem.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T12:04:13.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Default.cshtml",
               "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
@@ -189,98 +195,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-13T13:41:15.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Footer.cshtml",
-              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Shared\\_Footer.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Footer.cshtml",
-              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Shared\\_Footer.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Footer.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\HangHoa\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\Details.cshtml",
+              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\HangHoa\\Details.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\Details.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-13T14:24:03.479Z",
+              "WhenOpened": "2025-08-14T13:30:18.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_LayoutCustomer.cshtml",
-              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Shared\\_LayoutCustomer.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutCustomer.cshtml",
-              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Shared\\_LayoutCustomer.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LayoutCustomer.cshtml",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAtwHEAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-13T14:11:24.56Z",
+              "DocumentIndex": 2,
+              "Title": "shop-detail.html",
+              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\wwwroot\\shop-detail.html",
+              "RelativeDocumentMoniker": "wwwroot\\shop-detail.html",
+              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\wwwroot\\shop-detail.html",
+              "RelativeToolTip": "wwwroot\\shop-detail.html",
+              "ViewState": "AgIAAFICAAAAAAAAAAAAAF8CAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-14T11:41:20.319Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T10:42:04.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "Search.cshtml",
               "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\HangHoa\\Search.cshtml",
               "RelativeDocumentMoniker": "Views\\HangHoa\\Search.cshtml",
               "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\HangHoa\\Search.cshtml",
               "RelativeToolTip": "Views\\HangHoa\\Search.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-14T07:14:29.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HangHoaVM.cs",
-              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\ViewModels\\HangHoaVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\HangHoaVM.cs",
-              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\ViewModels\\HangHoaVM.cs",
-              "RelativeToolTip": "ViewModels\\HangHoaVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T16:30:36.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "DocumentIndex": 18,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T09:51:18.812Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T10:39:45.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\HangHoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\Index.cshtml",
+              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\HangHoa\\Index.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T14:34:00.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 6,
               "Title": "MenuLoaiVM.cs",
               "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\ViewModels\\MenuLoaiVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\MenuLoaiVM.cs",
@@ -293,7 +272,145 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PageNotFound.cshtml",
+              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Home\\PageNotFound.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\PageNotFound.cshtml",
+              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Home\\PageNotFound.cshtml",
+              "RelativeToolTip": "Views\\Home\\PageNotFound.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T13:02:30.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "404.html",
+              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\wwwroot\\404.html",
+              "RelativeDocumentMoniker": "wwwroot\\404.html",
+              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\wwwroot\\404.html",
+              "RelativeToolTip": "wwwroot\\404.html",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-14T13:07:21.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_DanhSachHangHoa.cshtml",
+              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T17:31:07.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "vegetable-website-template.jpg - Bitmap [800x500, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\wwwroot\\vegetable-website-template.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\vegetable-website-template.jpg",
+              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\wwwroot\\vegetable-website-template.jpg - Bitmap [800x500, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\vegetable-website-template.jpg - Bitmap [800x500, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-08-14T11:41:21.973Z",
+              "EditorCaption": " - Bitmap [800x500, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "shop.html",
+              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\wwwroot\\shop.html",
+              "RelativeDocumentMoniker": "wwwroot\\shop.html",
+              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\wwwroot\\shop.html",
+              "RelativeToolTip": "wwwroot\\shop.html",
+              "ViewState": "AgIAACECAAAAAAAAAAAAADcCAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-14T11:36:37.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Copyright.cshtml",
+              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Shared\\Copyright.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Copyright.cshtml",
+              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Shared\\Copyright.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Copyright.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T10:41:49.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_LayoutCustomer.cshtml",
+              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutCustomer.cshtml",
+              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutCustomer.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAtwDUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T14:11:24.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T10:41:29.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T14:24:03.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-13T13:41:15.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T10:42:04.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\HangHoas\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\HangHoas\\Index.cshtml",
@@ -301,12 +418,11 @@
               "RelativeToolTip": "Views\\HangHoas\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T07:05:41.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T07:05:41.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -314,12 +430,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T13:48:09.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T13:48:09.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "MenuLoaiViewComponent.cs",
               "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\ViewComponents\\MenuLoaiViewComponent.cs",
               "RelativeDocumentMoniker": "ViewComponents\\MenuLoaiViewComponent.cs",
@@ -327,12 +442,11 @@
               "RelativeToolTip": "ViewComponents\\MenuLoaiViewComponent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwBUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T14:44:35.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T14:44:35.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -340,25 +454,11 @@
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-13T14:18:50.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T14:18:50.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "HangHoasController.cs",
-              "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Controllers\\HangHoasController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HangHoasController.cs",
-              "ToolTip": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Controllers\\HangHoasController.cs",
-              "RelativeToolTip": "Controllers\\HangHoasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T13:54:28.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "Hshop2023Context.cs",
               "DocumentMoniker": "D:\\A Tu\u1EA5n\\NTTU UNIVERSITY\\N\u0103m 3\\K\u1EF3 3 n\u0103m 3\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\Final\\Final\\Data\\Hshop2023Context.cs",
               "RelativeDocumentMoniker": "Data\\Hshop2023Context.cs",
@@ -366,8 +466,7 @@
               "RelativeToolTip": "Data\\Hshop2023Context.cs",
               "ViewState": "AgIAACoAAAAAAAAAAIBQwD8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T13:44:07.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T13:44:07.904Z"
             }
           ]
         }
