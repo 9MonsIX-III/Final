@@ -1,0 +1,607 @@
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\appsettings.json
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Final.staticwebassets.runtime.json
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Final.staticwebassets.endpoints.json
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Final.exe
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Final.deps.json
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Final.runtimeconfig.json
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Final.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Final.pdb
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\Final.csproj.AssemblyReference.cache
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\Final.AssemblyInfoInputs.cache
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\Final.AssemblyInfo.cs
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\Final.csproj.CoreCompileInputs.cache
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\Final.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\Final.RazorAssemblyInfo.cache
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\Final.RazorAssemblyInfo.cs
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\scopedcss\bundle\Final.styles.css
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\scopedcss\projectbundle\Final.bundle.scp.css
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\compressed\q9bx5nhv38-6ai09hz867.gz
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\compressed\vsbs9y9i9z-6ai09hz867.gz
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\staticwebassets\msbuild.Final.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\staticwebassets\msbuild.Final.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\staticwebassets\msbuild.build.Final.props
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Final.props
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Final.props
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\Final.csproj.Up2Date
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\Final.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\refint\Final.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\Final.pdb
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\Final.genruntimeconfig.cache
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\ref\Final.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\compressed\ttwclfy6si-208t77kehy.gz
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\compressed\qy1og33cdi-wtrxbu9kjn.gz
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\compressed\0cr6xazyce-y4m3xvvojo.gz
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\compressed\ncgjdrz3ru-afwnc2kd9h.gz
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\compressed\kc314hv9ec-6j3bm6cpjb.gz
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\compressed\fnlh7jj7dv-q1cjwnpumj.gz
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\compressed\1sw4v97cla-wc8r8l1b77.gz
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\compressed\vh79u0m3qp-kgkrxe6v73.gz
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\compressed\cggcjibmsl-4cpzj38bla.gz
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\compressed\ux9ype9pdt-s1z0o21rrk.gz
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\compressed\h6rnhct4na-cgkztlecp5.gz
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\compressed\jee18xs7vy-cy66rzsxr7.gz
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\compressed\2j6iqtoiud-fynx4m6ffa.gz
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\compressed\pfdpycaium-j3wy3vomxf.gz
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\compressed\4uak0gml4a-3sqe7mmf4b.gz
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\compressed\8ob7h2gkvz-bvb3mcnxs0.gz
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\compressed\41ukm23662-rstaz3qrjg.gz
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\compressed\515lfjyyu2-1ktijcimzc.gz
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\compressed\ai8yk6ykt3-8vqiqdzfsy.gz
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\compressed\n4200r7dw3-xre24ck5s9.gz
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\compressed\dnq1l2g176-uydiqv09h2.gz
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\compressed\k0xpy8wmp0-qsdy6gzyas.gz
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\compressed\ppcqfouh84-m0uf2luthr.gz
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\compressed\abutwmynu8-7axz399ubv.gz
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\compressed\b8nnowy94x-x6va3dcssk.gz
+C:\Users\Lamthucdevtools\Documents\C#\WEB\Final\obj\Debug\net9.0\compressed\wwpqkjphve-m5ot37dk2f.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\Final.csproj.AssemblyReference.cache
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\Final.GeneratedMSBuildEditorConfig.editorconfig
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\Final.AssemblyInfoInputs.cache
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\Final.AssemblyInfo.cs
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\Final.csproj.CoreCompileInputs.cache
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\Final.MvcApplicationPartsAssemblyInfo.cache
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\Final.RazorAssemblyInfo.cache
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\Final.RazorAssemblyInfo.cs
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\Final.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\refint\Final.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\Final.pdb
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\appsettings.Development.json
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\appsettings.json
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Final.staticwebassets.runtime.json
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Final.staticwebassets.endpoints.json
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Final.exe
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Final.deps.json
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Final.runtimeconfig.json
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Final.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Final.pdb
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Azure.Core.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Azure.Identity.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Humanizer.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.Build.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\NuGet.Common.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\System.ClientModel.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\System.CodeDom.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\System.Memory.Data.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\System.Text.Json.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\scopedcss\bundle\Final.styles.css
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\scopedcss\projectbundle\Final.bundle.scp.css
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\ttwclfy6si-208t77kehy.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\qy1og33cdi-wtrxbu9kjn.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\0cr6xazyce-y4m3xvvojo.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\ncgjdrz3ru-afwnc2kd9h.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\kc314hv9ec-6j3bm6cpjb.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\fnlh7jj7dv-q1cjwnpumj.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\1sw4v97cla-wc8r8l1b77.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\vh79u0m3qp-kgkrxe6v73.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\cggcjibmsl-4cpzj38bla.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\ux9ype9pdt-s1z0o21rrk.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\h6rnhct4na-cgkztlecp5.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\jee18xs7vy-cy66rzsxr7.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\2j6iqtoiud-fynx4m6ffa.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\pfdpycaium-j3wy3vomxf.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\4uak0gml4a-3sqe7mmf4b.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\8ob7h2gkvz-bvb3mcnxs0.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\41ukm23662-rstaz3qrjg.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\515lfjyyu2-1ktijcimzc.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\ai8yk6ykt3-8vqiqdzfsy.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\n4200r7dw3-xre24ck5s9.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\dnq1l2g176-uydiqv09h2.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\k0xpy8wmp0-qsdy6gzyas.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\ppcqfouh84-m0uf2luthr.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\abutwmynu8-7axz399ubv.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\b8nnowy94x-x6va3dcssk.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\wwpqkjphve-m5ot37dk2f.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\q9bx5nhv38-6ai09hz867.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\compressed\vsbs9y9i9z-6ai09hz867.gz
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\staticwebassets.build.json
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\staticwebassets.development.json
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\Final.csproj.Up2Date
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\Final.genruntimeconfig.cache
+D:\A Tuấn\NTTU UNIVERSITY\Năm 3\Kỳ 3 năm 3\Phát triển ứng dụng\Final\Final\obj\Debug\net9.0\ref\Final.dll
