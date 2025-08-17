@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-namespace ECommerceMVC.Data;
+namespace Final.Data;
 
 public partial class TechShop : DbContext
 {

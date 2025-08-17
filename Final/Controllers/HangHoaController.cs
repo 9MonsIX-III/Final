@@ -1,9 +1,9 @@
-﻿using ECommerceMVC.Data;
-using ECommerceMVC.ViewModels;
+﻿using Final.Data;
+using Final.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace ECommerceMVC.Controllers
+namespace Final.Controllers
 {
 	public class HangHoaController : Controller
 	{

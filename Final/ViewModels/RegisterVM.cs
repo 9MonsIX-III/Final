@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace ECommerceMVC.ViewModels
+namespace Final.ViewModels
 {
 	public class RegisterVM
 	{

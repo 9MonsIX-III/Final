@@ -1,8 +1,8 @@
 ﻿using AutoMapper;
-using ECommerceMVC.Data;
-using ECommerceMVC.ViewModels;
+using Final.Data;
+using Final.ViewModels;
 
-namespace ECommerceMVC.Helpers
+namespace Final.Helpers
 {
 	public class AutoMapperProfile : Profile
 	{

@@ -1,7 +1,7 @@
 ﻿using System.Security.Cryptography;
 using System.Text;
 
-namespace ECommerceMVC.Helpers
+namespace Final.Helpers
 {
 	public static class DataEncryptionExtensions
 	{

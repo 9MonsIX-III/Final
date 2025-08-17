@@ -1,8 +1,8 @@
-﻿using ECommerceMVC.Helpers;
-using ECommerceMVC.ViewModels;
+﻿using Final.Helpers;
+using Final.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ECommerceMVC.ViewComponents
+namespace Final.ViewComponents
 {
 	public class CartViewComponent : ViewComponent
 	{

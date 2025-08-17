@@ -1,5 +1,5 @@
-using ECommerceMVC.Data;
-using ECommerceMVC.Helpers;
+using Final.Data;
+using Final.Helpers;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
 

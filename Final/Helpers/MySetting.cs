@@ -1,4 +1,4 @@
-﻿namespace ECommerceMVC.Helpers
+﻿namespace Final.Helpers
 {
 	public class MySetting
 	{

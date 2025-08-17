@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ECommerceMVC.Data;
+namespace Final.Data;
 
 public partial class Loai
 {

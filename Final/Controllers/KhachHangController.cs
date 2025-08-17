@@ -1,14 +1,14 @@
 ﻿using AutoMapper;
-using ECommerceMVC.Data;
-using ECommerceMVC.Helpers;
-using ECommerceMVC.ViewModels;
+using Final.Data;
+using Final.Helpers;
+using Final.ViewModels;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
 
-namespace ECommerceMVC.Controllers
+namespace Final.Controllers
 {
 	public class KhachHangController : Controller
 	{

@@ -1,6 +1,6 @@
 ﻿using System.Text.Json;
 
-namespace ECommerceMVC.Helpers
+namespace Final.Helpers
 {
 	public static class SessionExtensions
 	{

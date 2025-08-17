@@ -1,8 +1,8 @@
-﻿using ECommerceMVC.Data;
-using ECommerceMVC.ViewModels;
+﻿using Final.Data;
+using Final.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ECommerceMVC.ViewComponents
+namespace Final.ViewComponents
 {
 	public class MenuLoaiViewComponent : ViewComponent
 	{

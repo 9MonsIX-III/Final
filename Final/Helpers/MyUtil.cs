@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace ECommerceMVC.Helpers
+namespace Final.Helpers
 {
 	public class MyUtil
 	{

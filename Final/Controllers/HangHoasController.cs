@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using ECommerceMVC.Data;
+using Final.Data;
 
-namespace ECommerceMVC.Controllers
+namespace Final.Controllers
 {
     public class HangHoasController : Controller
     {
