@@ -12,10 +12,10 @@ namespace ECommerceMVC.Controllers
 {
 	public class KhachHangController : Controller
 	{
-		private readonly Hshop2023Context db;
+		private readonly TechShop db;
 		private readonly IMapper _mapper;
 
-		public KhachHangController(Hshop2023Context context, IMapper mapper)
+		public KhachHangController(TechShop context, IMapper mapper)
 		{
 			db = context;
 			_mapper = mapper;

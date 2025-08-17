@@ -6,9 +6,9 @@ namespace ECommerceMVC.ViewComponents
 {
 	public class MenuLoaiViewComponent : ViewComponent
 	{
-		private readonly Hshop2023Context db;
+		private readonly TechShop db;
 
-		public MenuLoaiViewComponent(Hshop2023Context context) => db = context;
+		public MenuLoaiViewComponent(TechShop context) => db = context;
 
 		public IViewComponentResult Invoke()
 		{

@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddDbContext<Hshop2023Context>(options => {
+builder.Services.AddDbContext<TechShop>(options => {
 	options.UseSqlServer(builder.Configuration.GetConnectionString("HShop"));
 });
 

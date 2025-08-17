@@ -7,9 +7,9 @@ namespace ECommerceMVC.Controllers
 {
 	public class CartController : Controller
 	{
-		private readonly Hshop2023Context db;
+		private readonly TechShop db;
 
-		public CartController(Hshop2023Context context)
+		public CartController(TechShop context)
 		{
 			db = context;
 		}

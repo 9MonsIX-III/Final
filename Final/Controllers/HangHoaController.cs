@@ -7,9 +7,9 @@ namespace ECommerceMVC.Controllers
 {
 	public class HangHoaController : Controller
 	{
-		private readonly Hshop2023Context db;
+		private readonly TechShop db;
 
-		public HangHoaController(Hshop2023Context conetxt)
+		public HangHoaController(TechShop conetxt)
 		{
 			db = conetxt;
 		}

@@ -11,9 +11,9 @@ namespace ECommerceMVC.Controllers
 {
     public class HangHoasController : Controller
     {
-        private readonly Hshop2023Context _context;
+        private readonly TechShop _context;
 
-        public HangHoasController(Hshop2023Context context)
+        public HangHoasController(TechShop context)
         {
             _context = context;
         }

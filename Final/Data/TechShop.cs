@@ -4,13 +4,13 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ECommerceMVC.Data;
 
-public partial class Hshop2023Context : DbContext
+public partial class TechShop : DbContext
 {
-    public Hshop2023Context()
+    public TechShop()
     {
     }
 
-    public Hshop2023Context(DbContextOptions<Hshop2023Context> options)
+    public TechShop(DbContextOptions<TechShop> options)
         : base(options)
     {
     }
